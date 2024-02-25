@@ -6,11 +6,11 @@ This Python script generates random passwords of specified length using a combin
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/oxbinaryBrain/random-password-generator.git
+    git clone https://github.com/oxBinaryBrain/Random_Password_Generator.git
     ```
 2. Navigate to the project directory:
     ```bash
-    cd random-password-generator
+    cd Pandom_Password_Generator
     ```
 3. Run the script:
     ```bash
